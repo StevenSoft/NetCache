@@ -1,0 +1,5 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.CacheStorage\bin\Debug\DistributedCache.CacheStorage.dll.config
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.CacheStorage\bin\Debug\DistributedCache.CacheStorage.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.CacheStorage\bin\Debug\DistributedCache.CacheStorage.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.CacheStorage\obj\Debug\DistributedCache.CacheStorage.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.CacheStorage\obj\Debug\DistributedCache.CacheStorage.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="90094623-0500-4993-a9c3-c1c348ea1a0b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50040/NetCacheService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NetCacheService.wsdl" MetadataType="Wsdl" ID="06fbfe5f-d4cf-4d8b-9b65-c84027b8d021" SourceId="1" SourceUrl="http://localhost:50040/NetCacheService.svc?wsdl" />
+    <MetadataFile FileName="NetCacheService.xsd" MetadataType="Schema" ID="5999f43d-b52b-4128-ab0e-ade0c93f99ca" SourceId="1" SourceUrl="http://localhost:50040/NetCacheService.svc?xsd=xsd1" />
+    <MetadataFile FileName="NetCacheService1.xsd" MetadataType="Schema" ID="7fe9e39f-cd07-4d4c-b72e-e9d3eda65979" SourceId="1" SourceUrl="http://localhost:50040/NetCacheService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NetCacheService.disco" MetadataType="Disco" ID="f494fb66-90a0-4ad4-ad2d-c06b17bd40be" SourceId="1" SourceUrl="http://localhost:50040/NetCacheService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,4 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.ServiceContract\bin\Debug\DistributedCache.ServiceContract.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.ServiceContract\bin\Debug\DistributedCache.ServiceContract.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.ServiceContract\obj\Debug\DistributedCache.ServiceContract.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.ServiceContract\obj\Debug\DistributedCache.ServiceContract.pdb

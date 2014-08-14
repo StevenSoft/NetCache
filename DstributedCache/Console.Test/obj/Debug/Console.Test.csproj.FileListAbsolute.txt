@@ -1,0 +1,6 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\bin\Debug\Console.Test.exe.config
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\bin\Debug\Console.Test.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\bin\Debug\Console.Test.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\obj\Debug\Console.Test.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\obj\Debug\Console.Test.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.Test\obj\Debug\Console.Test.csprojResolveAssemblyReference.cache

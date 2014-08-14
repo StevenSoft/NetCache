@@ -1,0 +1,9 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.Services.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.Services.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.CacheStorage.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.ServiceContract.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.CacheStorage.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\bin\Debug\DistributedCache.ServiceContract.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\obj\Debug\DistributedCache.Services.csprojResolveAssemblyReference.cache
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\obj\Debug\DistributedCache.Services.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Services\obj\Debug\DistributedCache.Services.pdb

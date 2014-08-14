@@ -1,0 +1,7 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\bin\DistributedCache.Web.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\bin\DistributedCache.Web.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\bin\DistributedCache.CacheStorage.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\bin\DistributedCache.CacheStorage.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\obj\Debug\DistributedCache.Web.csprojResolveAssemblyReference.cache
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\obj\Debug\DistributedCache.Web.dll
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\DistributedCache.Web\obj\Debug\DistributedCache.Web.pdb

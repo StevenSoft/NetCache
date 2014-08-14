@@ -1,0 +1,5 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\ForTest\bin\Debug\ForTest.exe.config
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\ForTest\bin\Debug\ForTest.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\ForTest\bin\Debug\ForTest.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\ForTest\obj\Debug\ForTest.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\ForTest\obj\Debug\ForTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.RemoteTest\bin\Debug\Console.RemoteTest.exe.config
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.RemoteTest\bin\Debug\Console.RemoteTest.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.RemoteTest\bin\Debug\Console.RemoteTest.pdb
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.RemoteTest\obj\Debug\Console.RemoteTest.exe
+C:\Users\zhangChunJu\Desktop\TestSpeech\DstributedCache\Console.RemoteTest\obj\Debug\Console.RemoteTest.pdb
